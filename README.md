@@ -8,6 +8,7 @@
 PHP Curl Class makes it easy to send HTTP requests and integrate with web APIs.
 
 ![PHP Curl Class screencast](www/img/screencast.gif)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdimaslanjaka%2Frss-parser.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdimaslanjaka%2Frss-parser?ref=badge_shield)
 
 ---
 
@@ -380,3 +381,7 @@ To test all PHP versions in containers:
 1. Write one or more tests for the new feature or that expose the bug.
 1. Make code changes to implement the feature or fix the bug.
 1. Send a pull request to get your changes merged and published.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdimaslanjaka%2Frss-parser.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdimaslanjaka%2Frss-parser?ref=badge_large)
